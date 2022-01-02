@@ -1,0 +1,31 @@
+#heading{
+    color: coral;
+    text-align: center;
+    font-size: 2em;
+    background-color: lightslategray;
+    padding: 10px 0;
+}
+.blog{
+    background-color: mediumpurple;
+    border: 5px solid rgb(0, 204, 255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+.blog-title{
+    color: rgb(29, 17, 131);
+    font-size: 30px;
+    font-weight: 700;    
+}
+.author{
+    color: crimson;
+}
+.blog p{
+    text-align: justify;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 300px;
+    width: 100%;
+}
